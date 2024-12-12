@@ -1,0 +1,12 @@
+﻿@model List<MultiShop.DtoLayer.CatalogDtos.CategoryDtos.ResultCategoryDto>
+@{
+    Layout = null;
+}
+
+<br /><br />
+<div class="margin-left:100px;">
+    @foreach(var item in Model)
+    {
+        <p>@item.CategoryName</p>
+    }
+</div>

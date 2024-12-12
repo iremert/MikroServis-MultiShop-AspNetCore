@@ -1,0 +1,4 @@
+Kullanýcý Adý ------- Þifre
+ali01				123456aA*
+ayse01				111111aA*
+mehmet01			123456aA*
